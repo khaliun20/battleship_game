@@ -17,7 +17,18 @@ In addition to the traditional features of the battleship game, this game has 2 
 
 ## Screenshots showing example play
 
-A player is asked to place a ship: 
+### A player is asked to place a ship: 
 
-A player is making is to choose between 3 options: 
+![ship-place](imgs/1.png)
 
+### A player is making is to choose between 3 options: 
+
+A player is shown not only his board but also opponents board! If the player successfully hit the opponents ship, "*" will be shown on the board coordinate.
+
+![next-step](imgs/2.png)
+
+## Testing 
+
+JUnit and Clover has been used! 100% test coverage is achieved! 
+
+![test-cov](imgs/3.png)
