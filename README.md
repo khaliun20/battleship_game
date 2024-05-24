@@ -2,8 +2,7 @@
 
 ## Overview 
 This is a console-based battleship game! Given a 10x20 board, each player must place 10 ships before starting the game. To win the game, a player must sink all of opponents ships.
-
-In addition to the traditional features of the battleship game, this game has 2 more interesting functionalities! 
+There are two versions of the game built. The first version only allows opponents to fire each other's boards. The second version has two more functionalities that are described below. 
 
 1. A player can move their ship position anytime during the game even if the ship is partially/fully sunk! This feature is there to keep the opponent confused!
 2. A player can scan the opponent's board around a specific point. This allows the player to gain more insights into the opponent's ship positions.
@@ -32,3 +31,11 @@ A player is shown not only his board but also their opponent's board! If the pla
 JUnit and Clover have been used! 100% test coverage is achieved! 
 
 <img src="imgs/3.png" alt="ship-place" width="600" height="400"/>
+
+## Contributions
+
+This project was done based on the software engineering course assignment requirements which can be found in problem_statment.md. 
+Version 1 was completed carefully following the step-by-step walkthrough. This exercise helped sharpen my OOP design skills. 
+Version 2 was independently designed and implemented by Haliunaa Munkhuu, me :) 
+
+
