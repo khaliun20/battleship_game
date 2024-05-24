@@ -19,16 +19,16 @@ In addition to the traditional features of the battleship game, this game has 2 
 
 ### A player is asked to place a ship: 
 
-![ship-place](imgs/1.png)
+<img src="imgs/1.png" alt="ship-place" width="300" height="200"/>
 
 ### A player is making is to choose between 3 options: 
 
 A player is shown not only his board but also opponents board! If the player successfully hit the opponents ship, "*" will be shown on the board coordinate.
 
-![next-step](imgs/2.png)
+<img src="imgs/2.png" alt="ship-place" width="300" height="200"/>
 
 ## Testing 
 
 JUnit and Clover has been used! 100% test coverage is achieved! 
 
-![test-cov](imgs/3.png)
+<img src="imgs/3.png" alt="ship-place" width="300" height="200"/>
