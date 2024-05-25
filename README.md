@@ -35,7 +35,9 @@ JUnit and Clover have been used! 100% test coverage is achieved!
 ## Contributions
 
 This project was done based on the software engineering course assignment requirements which can be found in problem_statment.md. 
+
 Version 1 was completed carefully following the step-by-step walkthrough. This exercise helped sharpen my OOP design skills. 
+
 Version 2 was independently designed and implemented by Haliunaa Munkhuu, me :) 
 
 
